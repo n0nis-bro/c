@@ -1,0 +1,12 @@
+PadCheck = true
+        GetPad(msg)
+game.Players:Chat(":h n0nis.blogspot.com") 
+wait(0.28)
+game.Players:Chat("size me .3")
+game.Players:Chat("size me .3")
+game.Players:Chat("size me .3")
+game.Players:Chat("freeze me")
+game.Players:Chat("size me 10")
+game.Players:Chat("size me 10")
+game.Players:Chat("size me 10")
+game.Players:Chat("clone me")
